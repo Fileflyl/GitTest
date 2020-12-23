@@ -1,7 +1,6 @@
 aaaa
 123456
 add   ssss
-<<<<<<< HEAD
 code conclick2
 java2
 
